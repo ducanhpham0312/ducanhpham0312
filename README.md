@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![ducanhpham0312's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducanhpham0312&theme=dark&hide_border=true)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m65g2tkapqdysb4lc6gperrbue&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31m65g2tkapqdysb4lc6gperrbue&redirect=true)
+
 <!--
 **ducanhpham0312/ducanhpham0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
