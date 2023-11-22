@@ -1,9 +1,26 @@
-### Hi there 👋
+<h3 align='center'>Hi there 👋, this is Duc Anh</h3>
 
-![ducanhpham0312's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducanhpham0312&theme=dark&hide_border=true)
+  - 🎓 Master students in Computing Sciences at Tampere University
+  - 🧑‍💻 Software Developer Trainee at Elisa Polystar
+
+#### Github Activities and Contributions
+<div class='container'>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ducanhpham0312&theme=dracula&hide_border=true"  style="height: auto; width: 49%;"/>
+&nbsp;
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ducanhpham0312&show=reviews,prs_merged&hide=contribs,issues&theme=dracula&show_icons=true&hide_border=true&count_private=true"  style="height: auto; width: 46.2%;"/>
+</div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m65g2tkapqdysb4lc6gperrbue&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31m65g2tkapqdysb4lc6gperrbue&redirect=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+#### Connect with me:
+<a href="https://linkedin.com/in/ducanhpham0312" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="ducanhpham0312" height="30" width="40" /></a>
 
 <!--
 **ducanhpham0312/ducanhpham0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
