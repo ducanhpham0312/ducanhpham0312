@@ -6,8 +6,8 @@
 #### Github Activities and Contributions
 <div class='container'>
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ducanhpham0312&theme=dracula&hide_border=true"  style="height: auto; width: 48%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ducanhpham0312&show=reviews,prs_merged&hide=contribs,issues&theme=dracula&show_icons=true&hide_border=true&count_private=true"  style="height: auto; width: 45%;"/>
+<img src="https://github-readme-streak-stats-wine-one.vercel.app?user=ducanhpham0312&theme=dracula&hide_border=true"  style="height: auto; width: 48%;"/>
+<img src="https://github-readme-stats-rho-three-11.vercel.app/api?username=ducanhpham0312&show=reviews,prs_merged&hide=contribs,issues&theme=dracula&show_icons=true&hide_border=true&count_private=true"  style="height: auto; width: 45%;"/>
 </div>
 
 
