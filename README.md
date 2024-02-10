@@ -1,8 +1,5 @@
 <h3 align='center'>Hi there 👋, this is Duc Anh</h3>
 
-  - 🎓 Master students in Computing Sciences at Tampere University
-  - 🧑‍💻 Software Developer Trainee at Elisa Polystar
-
 #### Github Activities and Contributions
 <div class='container'>
   
